@@ -62,9 +62,13 @@ open /Applications/Utilities/XQuartz.app
 
 2. 設定の変更
 設定 > セキュリティ > ネットワーク・クライアントからの接続を許可へチェックを入れてください。
+<img width="400" alt="setting place" src="https://github.com/user-attachments/assets/7421bf8a-35fe-4558-9289-d21f33c2233f">
+<img width="600" alt="setting" src="https://github.com/user-attachments/assets/554da3d6-08d8-4cb4-bd7b-015ffc4c88a5">
 
-3. XQuartzアプリケーションを再起動
-メニューからアプリケーションを終了させて、以下のコマンドを実行してください。
+4. XQuartzアプリケーションを再起動
+メニューからアプリケーションを終了させて、起動コマンドを実行してください。
+<img width="400" alt="setting place" src="https://github.com/user-attachments/assets/213d128f-85b5-4883-a3b3-feee125532ec">
+
 ```
 open /Applications/Utilities/XQuartz.app
 ```
