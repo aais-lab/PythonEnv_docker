@@ -113,7 +113,7 @@ python [path/to/file].py
 ### 環境の終了
 docker環境からexitでログアウトし、再度python_run.shを実行してください。
 
-##　Uninstall all
+## Uninstall all
 uninstall.shを実行してください。
 ローカルに導入されたbrewを含めた環境がアンインストールされます。
 
