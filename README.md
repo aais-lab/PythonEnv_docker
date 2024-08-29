@@ -116,3 +116,9 @@ docker環境からexitでログアウトし、再度python_run.shを実行して
 ##　Uninstall all
 uninstall.shを実行してください。
 ローカルに導入されたbrewを含めた環境がアンインストールされます。
+
+## Author
+[Nao Yamanouchi](https://github.com/ClairdelunaEve)
+
+## Licence
+3-Clause BSD
