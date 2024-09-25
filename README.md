@@ -1,4 +1,4 @@
-# developEnv_TA
+# PythonEnv_docker
 ## Overview
 千葉工業大学 先進工学部 知能メディア工学科の第2セメスター及び第4セメスター講義を担当するTAのうち、ローカルに指定のpython環境を構築できないTA(教育補助員)用のDocker環境構築スクリプト群です。
 環境構築の手間を削減する、また、統一的な環境を簡便に使用できるようにすることを目的として作成されました。
@@ -35,12 +35,12 @@
 ### ローカル環境の構築
 #### gitからクローン
 ```
-git clone https://github.com/aais-lab/developEnv_TA.git
+git clone https://github.com/aais-lab/PythonEnv_docker.git
 ```
 
 #### setup.commandへの権限付与
 ```
-xattr -d com.apple.quarantine ./developEnv_TA/setup.command
+xattr -d com.apple.quarantine ./PythonEnv_docker/setup.command
 ```
 
 #### setup.commandをダブルクリックで実行
