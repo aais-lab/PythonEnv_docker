@@ -82,7 +82,7 @@ DockerDesktopが実行されていることを確認してください。
 再度実行すると、dockerイメージが作成されます。
 出力が停止し、
 ```
-[python-IP]〜
+[python-citam-pydraw]〜
 ```
 
 と最後の行に表示されたのち、control + Cを押下してください。
