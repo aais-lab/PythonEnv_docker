@@ -125,9 +125,9 @@ else
         open /Applications/Docker.app
         wait $!
         sleep 10
-        if [ -d "~/Documents/IP" ]; then
+        if [ -d "~/Documents/pydraw" ]; then
             echo "作業用フォルダを生成します"
-            mkdir ~/Documents/IP
+            mkdir ~/Documents/pydraw
         fi
         cd "$(dirname "$0")"
         docker compose up --menu=false

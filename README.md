@@ -24,7 +24,7 @@
     - 実行時点のlastest
 
 ### コンテナ上の環境
-- Python 3.11.9-slim
+- Python 3.12.11-slim
 - git
 - python3-tk
 - mpv
